@@ -2,7 +2,7 @@
 
 
 
-- Author: Martin Schiling, Simon Günther
+- Author: Martin Schilling, Simon Günther
 - Dataset: Kickstarter, 220k instances
 
 # Our Business Case: Kickstart Boost!
